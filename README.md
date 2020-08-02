@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there  <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
 
-<!--
-**rafsanjani/rafsanjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rafsanjani! a software developer who is passionate about making great and maintainable software and helping others to do same through knowledge sharing. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about any of the tech stacks listed below
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Passionate about clean and maintainable code
 - ⚡ Fun fact: ...
--->
+
+**✨ Tech stacks i currently use**
+<br>
+<code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"><a/></code>
+<code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"/><a/></code>
+<code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"/><a/></code>
+<code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
+<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
+<code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
+  
+  
+  
+**🌱 I’m currently learning ...**
+<br>
+<code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
+
+**🌎 Find me around the web :**
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/foreverrafs/">LinkedIn</a>
+- 🌐 Updating my personal website with examples of my work on <a href="https://foreverrafs.com">ForeverRafs.com</a>
+- 🐦 Tweeting about the fragmentation of Android, beauty of C# and the love of Kotlin on <a href="https://twitter.com/coded_rafs/">Twitter</a>
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=rafsanjani&show_icons=true)
