@@ -5,7 +5,7 @@ I'm Rafsanjani! a software developer who is passionate about making great and ma
 
 - 💬 Ask me about any of the tech stacks listed below
 - 😄 Passionate about clean and maintainable code
-- ⚡ Fun fact: I still thin PES is better than FIFA
+- ⚡ Fun fact: I still think PES is better than FIFA
 
 **✨ Tech stacks i currently use**
 <br>
