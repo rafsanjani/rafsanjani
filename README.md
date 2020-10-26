@@ -24,9 +24,9 @@ I'm Rafsanjani! a software developer who is passionate about making great and ma
 <br>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 
-**🌎 Find me around the web :**
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/foreverrafs/">LinkedIn</a>
-- 🌐 Updating my personal website with examples of my work on <a href="https://foreverrafs.com">ForeverRafs.com</a>
-- 🐦 Tweeting about the fragmentation of Android, beauty of C# and the love of Kotlin on <a href="https://twitter.com/coded_rafs/">Twitter</a>
+**🌎  Find me around the web :**
+- 💼  Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/foreverrafs/">LinkedIn</a>
+- 🌐  Updating my personal website with examples of my work on <a href="https://foreverrafs.com">ForeverRafs.com</a>
+- 🐦  Tweeting about the fragmentation of Android, beauty of C# and the love of Kotlin on <a href="https://twitter.com/coded_rafs/">Twitter</a>
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=rafsanjani&show_icons=true)
