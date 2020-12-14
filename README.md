@@ -1,6 +1,6 @@
 ### Hi there  <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
 
-I'm Rafsanjani! a software developer who is passionate about making great and maintainable software and helping others to do same through knowledge sharing. 
+I'm Rafsanjani! a software engineer who is passionate about making great and maintainable software and helping others to do same through knowledge sharing. 
 
 
 - 💬 Ask me about any of the tech stacks listed below
