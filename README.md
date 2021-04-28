@@ -11,12 +11,8 @@ I'm Rafsanjani! a software engineer who is passionate about making great and mai
 <br>
 <code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"><a/></code>
 <code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"/><a/></code>
-<code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"/><a/></code>
 <code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
-<code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
   
   
   
