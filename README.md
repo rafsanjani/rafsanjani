@@ -7,19 +7,6 @@ I'm Rafsanjani! a software engineer who is passionate about making great and mai
 - 😄 Passionate about clean and maintainable code
 - ⚡ Fun fact: I still think PES is better than FIFA
 
-**✨ Tech stacks i currently use**
-<br>
-<code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"><a/></code>
-<code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"/><a/></code>
-<code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-  
-  
-  
-**🌱 I’m currently learning ...**
-<br>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
-
 **🌎  Find me around the web :**
 - 💼  Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/foreverrafs/">LinkedIn</a>
 - 🌐  Updating my personal website with examples of my work on <a href="https://foreverrafs.com">ForeverRafs.com</a>
