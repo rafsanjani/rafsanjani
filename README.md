@@ -9,7 +9,5 @@ I'm Rafsanjani! a software engineer who is passionate about making great and mai
 
 **🌎  Find me around the web :**
 - 💼  Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/foreverrafs/">LinkedIn</a>
-- 🌐  Updating my personal website with examples of my work on <a href="https://foreverrafs.com">ForeverRafs.com</a>
-- 🐦  Tweeting about the fragmentation of Android, beauty of C# and the love of Kotlin on <a href="https://twitter.com/coded_rafs/">Twitter</a>
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=rafsanjani&show_icons=true)
