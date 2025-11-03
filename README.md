@@ -5,7 +5,6 @@ I'm Rafsanjani! a software engineer who is passionate about making great and mai
 
 - 💬 Ask me anything about mobile and backend development
 - 😄 Passionate about clean and maintainable code
-- ⚡ Fun fact: I still think PES is better than FIFA
 
 **🌎  Find me around the web :**
 - 💼  Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/foreverrafs/">LinkedIn</a>
