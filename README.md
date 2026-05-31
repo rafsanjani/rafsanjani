@@ -9,4 +9,3 @@ I'm Rafsanjani! a software engineer who is passionate about making great and mai
 **🌎  Find me around the web :**
 - 💼  Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/foreverrafs/">LinkedIn</a>
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=rafsanjani&show_icons=true)
